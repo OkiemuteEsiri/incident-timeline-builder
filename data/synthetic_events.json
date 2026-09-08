@@ -1,0 +1,9 @@
+[
+  {"timestamp":"2026-01-15T09:00:00Z","source":"identity","event_id":"A100","user":"alex.lab","host":"ws-lab-01","event_type":"failed_login","severity":"low","summary":"Synthetic failed sign-in"},
+  {"timestamp":"2026-01-15T09:01:10Z","source":"identity","event_id":"A101","user":"alex.lab","host":"ws-lab-01","event_type":"failed_login","severity":"low","summary":"Synthetic failed sign-in"},
+  {"timestamp":"2026-01-15T09:02:20Z","source":"identity","event_id":"A102","user":"alex.lab","host":"ws-lab-01","event_type":"failed_login","severity":"low","summary":"Synthetic failed sign-in"},
+  {"timestamp":"2026-01-15T09:03:00Z","source":"identity","event_id":"A103","user":"alex.lab","host":"ws-lab-01","event_type":"successful_login","severity":"medium","summary":"Synthetic successful sign-in"},
+  {"timestamp":"2026-01-15T09:05:00Z","source":"endpoint","event_id":"E200","user":"alex.lab","host":"ws-lab-01","event_type":"powershell_execution","severity":"medium","summary":"Benign lab PowerShell execution marker"},
+  {"timestamp":"2026-01-15T09:06:30Z","source":"endpoint","event_id":"E201","user":"alex.lab","host":"ws-lab-01","event_type":"account_discovery","severity":"low","summary":"Synthetic account enumeration telemetry"},
+  {"timestamp":"2026-01-15T09:08:00Z","source":"network","event_id":"N300","user":"alex.lab","host":"srv-lab-02","event_type":"remote_service","severity":"medium","summary":"Synthetic remote-service connection telemetry"}
+]
